@@ -7,7 +7,7 @@ trigger:
 - develop
 
 pool:
-  QA
+  Biorythms-QA
 
 steps:
 - script: |
